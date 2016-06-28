@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<text>
+    <sentences>
+        <sentence>The term "First World War" was first used in September 1914 by the German philosopher Ernst Haeckel, who claimed that "there is no doubt that the course and character of the feared 'European War' ... will become the first world war in the full sense of the word."
+
+</sentence>
+        <noun>Ernst Haeckel</noun>
+        <noun>Europe</noun>
+        <docId>nlp_data.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>Why did the war begin? </sentence>
+        <docId>nlp_data.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>The immediate trigger for war was the 28 June 1914 assassination of Archduke Franz Ferdinand of Austria, heir to the throne of Austria-Hungary, by Yugoslav nationalist Gavrilo Princip (19 years old at the time) in Sarajevo. </sentence>
+        <noun>Franz Ferdinand</noun>
+        <noun>Gavrilo Princip</noun>
+        <noun>Austria-Hungary</noun>
+        <noun>Sarajevo</noun>
+        <docId>nlp_data.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>This set off a diplomatic crisis when Austria-Hungary delivered an ultimatum to the Kingdom of Serbia, and entangled international alliances formed over the previous decades were invoked. </sentence>
+        <noun>Austria-Hungary</noun>
+        <noun>Serbia</noun>
+        <docId>nlp_data.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>Within weeks, the major powers were at war and the conflict soon spread around the world.</sentence>
+        <docId>nlp_data.txt</docId>
+    </sentences>
+</text>
