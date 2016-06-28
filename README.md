@@ -12,5 +12,6 @@ Limitations:
 Right now these API's works on predefined .txt files in resource folder as input
 
 Improvements:
+
 Searching for nouns in each sentence can be improved using binary tree search or some other effective way. 
 
