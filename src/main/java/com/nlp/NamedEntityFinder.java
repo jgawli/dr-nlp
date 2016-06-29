@@ -271,7 +271,7 @@ public class NamedEntityFinder {
      * @param noOfThreads
      * @throws Exception
      */
-    public void processAllFilesForNLP(int noOfThreads)
+    public List<Future<SentenceXml>> processAllFilesForNLP(int noOfThreads)
             throws Exception
     {
         unzipFileIntoDirectory();
@@ -289,7 +289,11 @@ public class NamedEntityFinder {
             tasks.add(findNamedEntities(file));
         ExecutorService es = Executors.newFixedThreadPool(noOfThreads);
 
+        List<Future<SentenceXml>> results = es.invokeAll(tasks);
+
         es.shutdown();
+
+        return results;
 
     }
 
