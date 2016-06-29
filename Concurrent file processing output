@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<text>
+    <sentences>
+        <sentence>James Clerk Maxwell 
+
+
+
+was a Scottish mathematical physicist. </sentence>
+        <noun>James Clerk Maxwell</noun>
+        <docId>d10.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>His most notable achievement was to formulate the classical theory of electromagnetic radiation, bringing together for the first time electricity, magnetism, and light as manifestations of the same phenomenon. </sentence>
+        <docId>d10.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>Maxwell's equations for electromagnetism have been called the "second great unification in physics" after the first one realised by        
+Isaac Newton... </sentence>
+        <noun>Newton</noun>
+        <noun>Isaac Newton</noun>
+        <docId>d10.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>Maxwell demonstrated that electric and magnetic fields travel through space as waves moving at the speed of light. </sentence>
+        <docId>d10.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>Maxwell proposed that light is an undulation in the same medium that is the cause of electric and magnetic phenomena. 
+
+
+
+
+
+
+</sentence>
+        <docId>d10.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>The unification     of light and electrical phenomena led to the prediction of the existence of radio waves. </sentence>
+        <docId>d10.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>His discoveries helped usher in the era of modern physics, laying the foundation for such fields as special relativity and quantum mechanics. </sentence>
+        <docId>d10.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>His contributions to the science are considered by many to be of the same magnitude as those of Isaac Newton and Albert Einstein. </sentence>
+        <noun>Newton</noun>
+        <noun>Isaac Newton</noun>
+        <noun>Albert Einstein</noun>
+        <docId>d10.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>QED
+</sentence>
+        <docId>d10.txt</docId>
+    </sentences>
+</text>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<text>
+    <sentences>
+        <sentence>The Antikythera mechanism is an ancient analog computer designed to predict astronomical positions and eclipses for calendrical and astrological purposes, as well as the cycles of Olympic Games.
+
+</sentence>
+        <noun>Antikythera</noun>
+        <noun>Olympic Games</noun>
+        <docId>d04.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>Found housed in a 340 × 180 × 90 mm wooden box, the device is a complex clockwork mechanism composed of at least 30 meshing bronze gears. </sentence>
+        <docId>d04.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>Its remains were found as 82 separate fragments, of which only seven contain any gears or significant inscriptions. </sentence>
+        <docId>d04.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>The largest gear is approximately 140 mm in diameter.
+
+</sentence>
+        <docId>d04.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>The artifact was recovered in 1901 from the Antikythera shipwreck off the Greek island of Antikythera. </sentence>
+        <noun>Antikythera</noun>
+        <docId>d04.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>Believed to have been designed and constructed by Greek scientists, the instrument has been dated either between 150 to 100 BC or, according to a more recent view, at 205 BC.</sentence>
+        <docId>d04.txt</docId>
+    </sentences>
+</text>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<text>
+    <sentences>
+        <sentence>Apollo 11 was the spaceflight that landed the first humans on the Moon, Americans Neil Armstrong and Buzz Aldrin, on July 20, 1969. </sentence>
+        <noun>Apollo 11</noun>
+        <noun>Neil Armstrong</noun>
+        <noun>Buzz Aldrin</noun>
+        <noun>Moon</noun>
+        <docId>d08.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>Armstrong became the first to step onto the lunar surface six hours later. </sentence>
+        <docId>d08.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>Armstrong spent about two and a half hours outside the spacecraft, Aldrin slightly less, and together they collected 47.5 pounds (21.5 kg) of lunar material for return to Earth. </sentence>
+        <noun>Earth</noun>
+        <docId>d08.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>The third member of the mission, Michael Collins, piloted the command spacecraft alone in lunar orbit until Armstrong and Aldrin returned to it just under a day later for the trip back to Earth.
+
+</sentence>
+        <noun>Michael Collins</noun>
+        <noun>Earth</noun>
+        <docId>d08.txt</docId>
+    </sentences>
+</text>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<text>
+    <sentences>
+        <sentence>A differentiable manifold is a type of manifold that is locally similar enough to a linear space to allow one to do calculus. </sentence>
+        <docId>d06.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>Any manifold can be described by a collection of charts, also known as an atlas. </sentence>
+        <docId>d06.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>One may then apply ideas from calculus while working within the individual charts, since each chart lies within a linear space to which the usual rules of calculus apply. </sentence>
+        <docId>d06.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>If the charts are suitably compatible (namely, the transition from one chart to another is differentiable), then computations done in one chart are valid in any other differentiable chart.</sentence>
+        <docId>d06.txt</docId>
+    </sentences>
+</text>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<text>
+    <sentences>
+        <sentence>Horseshoe crabs are marine arthropods that live primarily in and around shallow ocean waters on soft sandy or muddy bottoms. </sentence>
+        <docId>d05.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>They occasionally come onto shore to mate. </sentence>
+        <docId>d05.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>They are commonly used as bait and in fertilizer. </sentence>
+        <docId>d05.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>In recent years, a decline in the population has occurred as a consequence of coastal habitat destruction in Japan and overharvesting along the east coast of North America. 
+
+</sentence>
+        <noun>Japan</noun>
+        <noun>North America</noun>
+        <docId>d05.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>Because of their origin 450 million years ago (Mya), horseshoe crabs are considered living fossils. </sentence>
+        <docId>d05.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>Horseshoe crabs resemble crustaceans, but belong to a separate subphylum, and are closely related to arachnids. </sentence>
+        <docId>d05.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>The earliest horseshoe crab fossils are found in strata from the late Ordovician period, roughly 450 Mya.</sentence>
+        <docId>d05.txt</docId>
+    </sentences>
+</text>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<text>
+    <sentences>
+        <sentence>Euclid's Elements has been referred to as the most successful and influential textbook ever written. </sentence>
+        <noun>Euclid</noun>
+        <noun>Elements</noun>
+        <docId>d01.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>First set in type in Venice in 1482, it is one of the very earliest mathematical works to be printed after the invention of the printing press and was estimated by Carl Benjamin Boyer to be second only to the Bible in the number of editions published, with the number reaching well over one thousand. </sentence>
+        <noun>Venice</noun>
+        <noun>Carl Benjamin Boyer</noun>
+        <noun>Bible</noun>
+        <docId>d01.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>For centuries, knowledge of at least part of the Elements was required of all students. </sentence>
+        <noun>Elements</noun>
+        <docId>d01.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>Not until the 20th century, by which time its content was universally taught through other school textbooks, did it cease to be considered something all educated people had read.</sentence>
+        <docId>d01.txt</docId>
+    </sentences>
+</text>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<text>
+    <sentences>
+        <sentence>Sun Microsystems, Inc. was a company that sold computers, computer components, computer software, and information technology services and that created the Java programming language and the Network File System (NFS). </sentence>
+        <noun>Sun Microsystems</noun>
+        <noun>Sun</noun>
+        <docId>d07.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>Sun significantly evolved several key computing technologies, among them Unix, RISC processors, thin client computing, and virtualized computing. </sentence>
+        <noun>Sun</noun>
+        <docId>d07.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>Sun was founded on February 24, 1982.
+
+</sentence>
+        <noun>Sun</noun>
+        <docId>d07.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>On January 27, 2010, Sun was acquired by Oracle Corporation for US $7.4 billion. </sentence>
+        <noun>Sun</noun>
+        <noun>Oracle Corporation</noun>
+        <docId>d07.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>The following month, Sun was merged with Oracle USA, Inc. to become Oracle America, Inc.</sentence>
+        <noun>Sun</noun>
+        <docId>d07.txt</docId>
+    </sentences>
+</text>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<text>
+    <sentences>
+        <sentence>The Broyden–Fletcher–Goldfarb–Shanno (BFGS) algorithm is an iterative method for solving unconstrained nonlinear optimization problems. </sentence>
+        <noun>Broyden–Fletcher–Goldfarb–Shanno</noun>
+        <noun>BFGS</noun>
+        <docId>d02.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>The BFGS method approximates Newton's method, a class of hill-climbing optimization techniques that seeks a stationary point of a (preferably twice continuously differentiable) function. </sentence>
+        <noun>Newton</noun>
+        <noun>BFGS</noun>
+        <docId>d02.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>For such problems, a necessary condition for optimality is that the gradient be zero. </sentence>
+        <docId>d02.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>Newton's method and the BFGS methods are not guaranteed to converge unless the function has a quadratic Taylor expansion near an optimum. </sentence>
+        <noun>Newton</noun>
+        <noun>BFGS</noun>
+        <docId>d02.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>These methods use both the first and second derivatives of the function. </sentence>
+        <docId>d02.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>However, BFGS has proven to have good performance even for non-smooth optimizations.</sentence>
+        <noun>BFGS</noun>
+        <docId>d02.txt</docId>
+    </sentences>
+</text>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<text>
+    <sentences>
+        <sentence>Montgomery Castle is a stone masonry castle looking over the town of Montgomery in Powys, Wales. </sentence>
+        <noun>Montgomery Castle</noun>
+        <noun>Powys</noun>
+        <noun>Wales</noun>
+        <docId>d03.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>It is one of many Norman castles on the border between Wales and England. </sentence>
+        <noun>Wales</noun>
+        <noun>England</noun>
+        <docId>d03.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>The original castle was built at the order of Roger de Montgomery, earl of Shrewsbury sometime between 1071 and 1074. </sentence>
+        <noun>Roger de Montgomery</noun>
+        <noun>Shrewsbury</noun>
+        <docId>d03.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>On the rebellion of his son Robert of Belleme in 1102, the castle was given to Baldwin de Boulers. </sentence>
+        <noun>Robert of Belleme</noun>
+        <docId>d03.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>In 1267 Montgomery was the meeting place for treaty negotiations, where King Henry III granted Llywelyn ap Gruffudd the title of Prince of Wales. </sentence>
+        <noun>Wales</noun>
+        <noun>King Henry III</noun>
+        <noun>Llywelyn ap Gruffudd</noun>
+        <noun>Prince of Wales</noun>
+        <docId>d03.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>After 1295 and the final Welsh War of the thirteenth century the castle became more of a military backwater and prison than a front line fortress.</sentence>
+        <docId>d03.txt</docId>
+    </sentences>
+</text>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<text>
+    <sentences>
+        <sentence>The Apollo spacecraft had three parts: a Command Module with a cabin for the three astronauts, and the only part that landed back on Earth; a Service Module, which supported the Command Module with propulsion, electrical power, oxygen, and water; and a Lunar Module for landing on the Moon. </sentence>
+        <noun>Moon</noun>
+        <noun>Earth</noun>
+        <docId>d09.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>After being sent toward the Moon by the Saturn V's upper stage, the astronauts separated the spacecraft from it and traveled for three days until they entered into lunar orbit. </sentence>
+        <noun>Moon</noun>
+        <docId>d09.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>Armstrong and Aldrin then moved into the Lunar Module and landed in the Sea of Tranquility. </sentence>
+        <noun>Sea of Tranquility</noun>
+        <docId>d09.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>They stayed a total of about 21.5 hours on the lunar surface. </sentence>
+        <docId>d09.txt</docId>
+    </sentences>
+    <sentences>
+        <sentence>After lifting off in the upper part of the Lunar Module and rejoining Collins in the Command Module, they returned to Earth and landed in the Pacific Ocean on July 24.</sentence>
+        <noun>Earth</noun>
+        <noun>Pacific Ocean</noun>
+        <docId>d09.txt</docId>
+    </sentences>
+</text>
